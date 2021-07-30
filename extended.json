@@ -1,25 +1,25 @@
 {
-    "info": {
-        "url_png_icon_64x64": "https://github.com/pgwadapool/poolpage/blob/main/logo.JPG",
-        "url_png_logo": "https://github.com/pgwadapool/poolpage/blob/main/logo.JPG",
-        "location": "USA",
-        "social": {
-            "twitter_handle": "PgwadaS",
-            "telegram_handle": "Pgwada",
-            "facebook_handle": "",
-            "youtube_handle": "channel/UCnXOz6fuQ1YoUUZJSbgZ8rg",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "PGWAD"
-        },
-        "about": {
-            "me": "I am AI researcher looking at AI and Blockchain. I have 20+ yrs experience in embbeded systems",
-            "server": "Raspberry Pi and Mini",
-            "company": "PGWAD"
-        },
-      "my-pool-ids": ["8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"]     
-    },
+	"info": {
+		"url_png_icon_64x64": "https://github.com/pgwadapool/poolpage/blob/main/logo.JPG",
+		"url_png_logo": "https://github.com/pgwadapool/poolpage/blob/main/logo.JPG",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "PgwadaS",
+			"telegram_handle": "Pgwada",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCnXOz6fuQ1YoUUZJSbgZ8rg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "PGWAD"
+		},
+		"about": {
+			"me": "I am AI researcher looking at AI and Blockchain. I have 20+ yrs experience in embbeded systems",
+			"server": "Raspberry Pi and Mini",
+			"company": "PGWAD"
+		}
+	},
+	"my-pool-ids": ["8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"]
 }
